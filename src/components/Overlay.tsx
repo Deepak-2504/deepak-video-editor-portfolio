@@ -74,7 +74,7 @@ export default function Overlay() {
                 style={{ opacity: opacity4, y: y4 }}
             >
                 <h2 className="text-5xl md:text-7xl font-semibold text-center leading-tight tracking-tight">
-                    Let's create something <br />
+                    Let&apos;s create something <br />
                     amazing together.
                 </h2>
             </motion.div>
