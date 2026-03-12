@@ -18,7 +18,7 @@ export default function About() {
                 >
                     <span className="uppercase tracking-widest text-sm text-blue-400 mb-6 block font-mono">The Editor</span>
                     <h2 className="text-4xl md:text-6xl font-light leading-tight tracking-tight text-gray-300">
-                        Hi, I'm <span className="text-white font-bold">Deepak</span>. <br />
+                        Hi, I&apos;m <span className="text-white font-bold">Deepak</span>. <br />
                         A passionate video editor who transforms raw footage into <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500 font-semibold">cinematic stories.</span>
                     </h2>
                 </motion.div>
