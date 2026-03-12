@@ -22,7 +22,7 @@ export default function Contact() {
                 >
                     <span className="uppercase tracking-widest text-sm text-purple-400 mb-6 block font-mono">Contact</span>
                     <h2 className="text-6xl md:text-8xl font-bold tracking-tighter mb-8">
-                        Let's <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500">Collaborate</span>
+                        Let&apos;s <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500">Collaborate</span>
                     </h2>
                     <p className="text-xl text-gray-400 max-w-xl mx-auto font-light">
                         Ready to bring your vision to life? Get in touch instantly via Email or WhatsApp.
